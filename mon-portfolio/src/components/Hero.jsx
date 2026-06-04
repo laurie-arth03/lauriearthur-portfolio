@@ -11,18 +11,9 @@ const Hero = () => {
             modernes et performantes.
           </span>
         </h1>
-        <p className="text-slate-400 text-lg md:text-xl max-w-2xl mb-10">
-          Développeur Fullstack spécialisé en React et Node.js. 
-          Je transforme vos idées en produits numériques d'exception.
+        <p className="text-slate-400 text-lg md:text-xl max-w-2xl mb-10  gap-2 relative left-40">
+          Transformons vos idées en produits numériques d'exception!
         </p>
-        <div className="flex gap-4">
-          <button className="px-8 py-4 bg-sky-500 hover:bg-sky-600 text-white font-bold rounded-xl transition-all shadow-lg shadow-sky-500/20">
-            Voir mes projets
-          </button>
-          <button className="px-8 py-4 border border-slate-700 text-white font-bold rounded-xl hover:bg-slate-800 transition-all">
-            Me contacter
-          </button>
-        </div>
       </div>
     </section>
   );
