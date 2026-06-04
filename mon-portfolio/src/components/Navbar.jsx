@@ -176,7 +176,7 @@ const PortfolioLaurie = () => {
             </p>
             <div className="flex flex-wrap justify-center md:justify-start gap-5">
                 <div className="px-6 py-4 bg-white/5 backdrop-blur-md border border-white/10 rounded-2xl text-center min-w-[100px]">
-                    <div className="text-2xl font-black italic">M1</div>
+                    <div className="text-2xl font-black italic">Technicienne</div>
                     <div className="text-[9px] text-blue-400 font-black uppercase tracking-widest">Niveau</div>
                 </div>
                 <div className="px-6 py-4 bg-white/5 backdrop-blur-md border border-white/10 rounded-2xl text-center min-w-[100px]">
@@ -285,15 +285,12 @@ const PortfolioLaurie = () => {
                 </a>
             </div>
         </div>
-        <p className="text-slate-400 text-lg md:text-xl max-w-2xl mb-10 mx-autor text-center relative left-40">
+        <p className="text-slate-400 text-lg md:text-xl max-w-2xl mb-10 mx-autor text-center">
           Transformons vos idées en produits numériques d'exception!
         </p>
 
       </div>
 
-      <footer className="py-16 opacity-40 text-center">
-        <div className="text-[10px] font-black uppercase tracking-[0.8em]">© 2026 LAURIE ARTHUR • FULLSTACK DEVELOPER</div>
-      </footer>
 
       <style dangerouslySetInnerHTML={{ __html: `
         @import url('https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@1,400;1,900&family=Plus+Jakarta+Sans:wght@400;600;800&display=swap');
